@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HisHeir
-- 👀 I’m a Data Analyst
+- 👀 I’m a Data Scientist
 - 🌱 I’m currently learning data science in world Quant University
 - 💞️ I’m looking to collaborate on every possible grounds
 - 📫 How to reach me johntimmyolanrewaju@gmail.com
